@@ -1,6 +1,6 @@
 ## Appunti Terranova
 
-:warning: **APPUNTI DEL 2016** :warning:
+⚠️ **APPUNTI DEL 2016** ⚠️
 
 I seguenti documenti sono tratti da appunti presi durante le lezioni universitarie, i quali sono stati integrati e ampliati sia con ricerche fatte su internet, sia attraverso consultazioni di libri specializzati. NON sono da considerarsi come dei validi sostituti dei libri di testo, ma solo delle fonti che forniscono spunti di approfondimento per questo determinato argomento.
 
